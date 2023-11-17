@@ -58,28 +58,28 @@ Diante dos dados apresentados, foram obtidos os resultados presentees nas tabela
 - Sessão 1 (Primeiro elemento):
 
 | Tipo de busca | Tempo Lista 1 | Lista 2 | Lista 3 | Lista 4 |
-|-|-|-|-|-|-|-|
+|-|-|-|-|-|
 | Busca Binária | 0.0 | 0.006020307540893555 | 0.016322851181030273 | 0.0 |
 | Busca Sequancial | 0.0 | 0.0 | 0.0 | 0.0 |
 
 - Sessão 2 (Elemento central):
 
 | Tipo de busca | Tempo Lista 1 | Lista 2 | Lista 3 | Lista 4 |
-|-|-|-|-|-|-|-|
+|-|-|-|-|-|
 | Busca Binária | 0.0 | 0.015421867370605469 | 0.0 | 0.0 |
 | Busca Sequancial | 0.0 | 0.0 | 0.08406305313110352 | 3.22605562210083 |
 
 - Sessão 3 (Último elemento):
 
 | Tipo de busca | Tempo Lista 1 | Lista 2 | Lista 3 | Lista 4 |
-|-|-|-|-|-|-|-|
+|-|-|-|-|-|
 | Busca Binária | 0.0 | 0.0 | 0.01541447639465332 | 0.0 |
 | Busca Sequancial | 0.0 | 0.0 | 0.09178566932678223 | 10.211485385894775 |
 
 - Sessão 4 (Elemento Inexistente):
 
 | Tipo de busca | Tempo Lista 1 | Lista 2 | Lista 3 | Lista 4 |
-|-|-|-|-|-|-|-|
+|-|-|-|-|-|
 | Busca Binária | 0.0 | 0.0 | 0.0 | 0.0 |
 | Busca Sequancial | 0.0 | 0.0 | 0.04962515830993652 | 6.514232397079468 |
 

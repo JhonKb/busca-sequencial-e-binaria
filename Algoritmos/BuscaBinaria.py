@@ -1,3 +1,6 @@
+# Método da busca binária
+# O método percorre a lista fragmentando-a em partes menores
+# Posicionando-se no centro de cada fragmento e comparando sua igualdade
 def busca_binaria(lista, alvo):
     inicio = 0
     fim = len(lista) - 1
